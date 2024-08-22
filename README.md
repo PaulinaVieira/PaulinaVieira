@@ -1,3 +1,1 @@
-Meu nome é Paulina
-.Estou estudando na Alura
-.Estou me desenvoiolvendo na linguagem JavaScript
+Meu nome é Paulina estou estudando na Alura desenvolvendo na linguagem JavaScript.
